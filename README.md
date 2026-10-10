@@ -140,3 +140,21 @@ Check that the results appear correctly in the browser console.
 ## Conclusion
 
 SpendWise demonstrates how JavaScript variables, data types, user input, calculations, and functions can be used to process budgeting information and calculate a remaining balance.
+
+
+# SpendWise Dashboard — JavaScript
+
+## Description
+
+SpendWise is a budgeting dashboard that uses JavaScript to manage expense records, calculate totals, and check budget limits.
+
+## Features
+
+* Conditional statements for budget decisions.
+* Arrays for storing multiple expense records.
+* Loops for processing expenses and calculating totals.
+* DOM manipulation for displaying dashboard information.
+* Event listeners for handling user interactions.
+* Automatic dashboard updates when expenses are added.
+
+#
